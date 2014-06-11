@@ -1,9 +1,12 @@
 Note! GitHub repository contains only application source.
-
 For binary visit: http://dageron.com/?page_id=4973&lang=en
 
 ======
+Project requires Delphi XE3 and higher, necessary components: 
+* Vampyre Imaging Library: http://imaginglib.sourceforge.net/
+* NTS Code Suite: http://code.google.com/p/nts-code-suite/
 
+======
 GTA V Console Texure Editor is an advanced texture dictionary editor, with support for all RAGE-based games: GTA IV, EFLC, GTA V, MC:LA, RDR, MP3.
 
 Version: 1.4 
@@ -34,4 +37,4 @@ This program is a resource editor which makes it possible to change in-game text
 ======
 Official website: http://Dageron.com
 
-Please do not public this program somewhere, just public a link to this website! Program will be updated periodically.
+Please do not publish this program somewhere, just public a link to this website! Program will be updated periodically.
