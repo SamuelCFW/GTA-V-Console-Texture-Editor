@@ -1,4 +1,5 @@
 Note! GitHub repository contains only application source.
+
 For binary visit: http://dageron.com/?page_id=4973&lang=en
 
 ======
@@ -6,11 +7,14 @@ For binary visit: http://dageron.com/?page_id=4973&lang=en
 GTA V Console Texure Editor is an advanced texture dictionary editor, with support for all RAGE-based games: GTA IV, EFLC, GTA V, MC:LA, RDR, MP3.
 
 Version: 1.4 
+
 Designed and made by: Dageron 
+
 Thanks to (A-Z): Ekey, Kornto, Listener, SILENT_Pavel 
 
 ======
 Supported platforms: Xbox360 and PS3
+
 Supported formats: *.xtd, *.xhm, *.ctd, *.chm, *.xshp, *.cshp (+ unpacked: *.sys/*.gfx).
 
 ======
