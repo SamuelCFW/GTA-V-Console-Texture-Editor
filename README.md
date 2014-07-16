@@ -1,4 +1,5 @@
 Note! GitHub repository contains only application source.
+
 For binary visit: http://dageron.com/?page_id=4973&lang=en
 
 ======
@@ -18,7 +19,7 @@ Thanks to (A-Z): Ekey, Kornto, Listener, SILENT_Pavel
 ======
 Supported platforms: Xbox360 and PS3
 
-Supported formats: *.xtd, *.xhm, *.ctd, *.chm, *.xshp, *.cshp (+ unpacked: *.sys/*.gfx).
+Supported formats: *.xtd, *.xhm, *.ctd, *.chm, *.xshp, *.cshp, *.xsf, *.csf (+ unpacked: *.sys/*.gfx).
 
 ======
 Technical issues:
